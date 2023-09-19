@@ -31,7 +31,6 @@ const RegisterScreen = () => {
   return (
     <div>
       <h1>Register User</h1>
-      <h1>{import.meta.env.VITE_BASE_URL}</h1>
       <form action="">
         <input
           onChange={(e) => setName(e.target.value)}
