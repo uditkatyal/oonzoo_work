@@ -1,0 +1,12 @@
+.container {
+  box-shadow: 10px 10px 20px 3px rgba(0, 0, 0, 0.9);
+  border-radius: 20px;
+  margin: 0 auto;
+  text-align: center;
+  width: 30%;
+}
+.parent_class {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+}
